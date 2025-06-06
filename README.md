@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.**_
+_**I think of the past and the future as well as the present to determine where I am, and I move on while thinking of these things.**_
 
-Kristi Yamaguchi
+Tadao Ando
 
 
 
