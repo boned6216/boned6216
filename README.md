@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**People might not think that, but the Republicans have all of the cards. And this is the time to get rid of Obamacare. This is the time to make the great deal.**_
+_**I came to live in Shepperton in 1960. I thought: the future isn't in the metropolitan areas of London. I want to go out to the new suburbs, near the film studios. This was the England I wanted to write about, because this was the new world that was emerging.**_
 
-Donald Trump
+J. G. Ballard
 
 
 
@@ -20,4 +20,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/8/2025
+6/9/2025
