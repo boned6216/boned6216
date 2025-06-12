@@ -1,23 +1,24 @@
 ## 😄 Daily Quotes 😄
 
-_**Jazz took too much discipline. You have to come in at the right place, which is different than me singing the blues, where I can sing, 'Oh, baby,' if there's a pause in the melody. With jazz, you better leave that space open, or put in something real cool.**_
+_**God is the great mysterious motivator of what we call nature, and it has often been said by philosophers, that nature is the will of God. And I prefer to say that nature is the only body of God that we shall ever see.**_
 
-Etta James
+Frank Lloyd Wright
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 22 mins  ██████████████▎░░░░░░  68.4%
-JSON        1 hr 58 mins   ███▍░░░░░░░░░░░░░░░░░  16.2%
-Diff        51 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
-JavaScript  22 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-MDX         14 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Bash        11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+<pre>TypeScript  6 hrs 38 mins  ████████████▉░░░░░░░░  61.8%
+JSON        2 hrs 2 mins   ███▉░░░░░░░░░░░░░░░░░  18.9%
+Diff        51 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+JavaScript  23 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Bash        19 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+MDX         14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Other       11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
 Markdown    3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/11/2025
+6/12/2025
